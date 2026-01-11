@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'unicorn';
+    src: url('UnicornPop.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '210';
+    src: url('TTMusicalR.woff2') format('woff2'),
+        url('TTMusicalR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
